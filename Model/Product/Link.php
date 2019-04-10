@@ -8,7 +8,7 @@ namespace MagePal\LinkProduct\Model\Product;
 
 class Link extends \Magento\Catalog\Model\Product\Link
 {
-    const LINK_TYPE_ACCESSORY = 7;
+    const LINK_TYPE_ACCESSORY = 6;
 
     /**
      * @return $this
