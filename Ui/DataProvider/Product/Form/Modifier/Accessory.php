@@ -10,7 +10,7 @@ use Magento\Ui\Component\Form\Fieldset;
 
 class Accessory extends \Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Related
 {
-    const DATA_SCOPE_ACCESSORY = 'accessory';
+    const DATA_SCOPE_ACCESSORY = 'accessories';
     /**
      * @var string
      */

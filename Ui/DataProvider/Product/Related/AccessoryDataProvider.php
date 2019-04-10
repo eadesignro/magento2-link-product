@@ -15,6 +15,6 @@ class AccessoryDataProvider extends AbstractDataProvider
      */
     protected function getLinkType()
     {
-        return 'accessory';
+        return 'accessories';
     }
 }
